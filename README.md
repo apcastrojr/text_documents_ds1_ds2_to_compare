@@ -1,5 +1,5 @@
 # text_documents_ds1_ds2_to_compare
-The source code of the programs, the datasets, and the text documents aiming to share them in the new research. Conduct searches for classification of text documents.
+The source code of the programs, the datasets, and the text documents in order to share them in new researches. Conduct searches for classification of text documents.
 
 The corpus of textual documents is available for free at the University of São Paulo (USP), institute of mathematics and computer sciences, at http://sites.labic.icmc.usp.br/text_collections/.
 
